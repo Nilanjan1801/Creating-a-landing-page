@@ -1,1 +1,2 @@
 # Creating-a-landing-page
+A responsive landing page designed using HTML, CSS, and JavaScript, showcasing modern web design techniques. This project demonstrates how to create a visually appealing and functional page, featuring a hero section, call-to-action buttons, and smooth scrolling navigation. With a focus on clean, organized code and responsive layout, the page adapts to different screen sizes. This project is ideal for learning front-end development skills like layout design, styling, and user interaction.
